@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=DOSBox Emulator
+Name[es]=Emulador DOSBox
+Comment=Run old DOS applications
+Comment[es]=Un emulador para ejecutar antiguas aplicaciones DOS
+Icon=dosbox
+Exec=dosbox
+Terminal=false
+Categories=Application;X-Debian-Applications-Emulators;

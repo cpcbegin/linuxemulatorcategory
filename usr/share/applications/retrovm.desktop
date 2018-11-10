@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Retro Virtual Machine
+Name[es]=Retro Virtual Machine
+GenericName=Retro Virtual Machine (Amstrad CPC y ZX Spectrum emulator)
+GenericName[es]=Retro Virtual Machine (emuladores Amstrad CPC y ZX Spectrum)
+Comment=Amstrad CPC y ZX Spectrum emulator
+Comment[es]=Emulador Amstrad CPC y ZX Spectrum
+Icon=retrovm
+Exec=RetroVirtualMachine
+Terminal=false
+Categories=Application;X-Debian-Applications-Emulators;

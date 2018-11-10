@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=openMSX
+Comment=MSX emulator
+Type=Application
+Exec=openmsx
+Icon=/usr/share/openmsx/icons/openMSX-logo-128.png
+DocPath=/usr/share/doc/openmsx/manual/index.html
+Terminal=false
+Categories=Application;X-Debian-Applications-Emulators;

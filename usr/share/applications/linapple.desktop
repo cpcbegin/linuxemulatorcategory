@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=linapple (Apple II)
+Name[es]=linapple (Apple II)
+GenericName=Apple II emulator
+Comment=Apple II emulator
+Icon=linapple
+Exec=linapple
+Terminal=false
+Categories=Application;X-Debian-Applications-Emulators;menulibre-emuladores;Emuladores;

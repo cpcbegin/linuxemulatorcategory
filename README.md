@@ -3,7 +3,7 @@
 
 Files to get a new 'Emulators' category in GNU/Linux for several emulators you must previously get installed so that they run.
 
-¡¡¡¡¡ THIS REPOSITORY DOESN'T INCLUDE ANY EMULATOR, BIOS OR ROM !!!!!
+THIS REPOSITORY DOESN'T INCLUDE ANY EMULATOR, BIOS OR ROM !!!!!
 
 ![Emulator category in GNU/Linux](https://4.bp.blogspot.com/-6Tp_8hih4mg/W5PXLhZAjDI/AAAAAAAAK18/B77DOM08yxcmHrnonblnV0jpOwYi-6KGACLcBGAs/s320/menu-category.png)
 
@@ -24,6 +24,7 @@ Just copy the entire tree in / as a root user but *.md files and ".git" folder.
 * Mednaffe (front-end for mednaffen).
 * OpenMSX (MSX).
 * Osmose (SMS & GG).
+* PCem (old PCs)
 * pcsxr (PSX).
 * pcsx2 (PSX 2).
 * Retro Virtual Machine (future Amstrad CPC / ZX Spectrum emulator, STILL NOT AVAILABLE).
